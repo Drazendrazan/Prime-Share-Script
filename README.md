@@ -27,30 +27,30 @@ Với mục đích và hướng đi phát triển cộng đồng FiveM Việt Na
 <a href="https://github.com/HungMiCheo">Run1St</a>
 <br />
 <a href="https://github.com/hktts474941">Rimts</a>
-<p align="right">(<a href="#top">Về đầu trang</a>)</p>
 
 ## Prime Share Script
 
 ```sh
-Tệp này được chúng tôi tạo ra với mục đích chia sẻ tới cộng đồng FiveM Việt Nam những kịch bản được chúng tôi viết lại hoặc được chúng tôi
-viết ra.
+Tệp này được chúng tôi tạo ra với mục đích chia sẻ tới cộng đồng FiveM Việt Nam những kịch bản được chúng 
+tôi viết lại hoặc được chúng tôi viết ra.
 ```
 ```sh
 Những kịch bản này bao gồm tất cả các nội dung xoay quanh FiveM.
 ```
 ```sh
-Xin đừng thay đổi bản quyền và sử dụng các kịch bản cho mục đích thương mại vì bạn sẽ bị cấm vĩnh viễn nếu chúng tôi phát hiện ra điều này.
+Xin đừng thay đổi bản quyền và sử dụng các kịch bản cho mục đích thương mại vì bạn sẽ bị cấm vĩnh viễn nếu
+chúng tôi phát hiện ra điều này.
 ```
 
 ## Giấy phép
 
 Phân phối theo giấy phép GNU. Xem `License.txt` để biết thêm thông tin.
 
-<p align="right">(<a href="#top">Về đầu trang</a>)</p>
-
 ## Liên hệ
 
 Gmail  : micheohung@icloud.com
+
+Discord: [Prime Main💠](https://discord.com/invite/Ec2N3dWQpM)
 
 Youtube: [MiCheo Hưng](https://www.youtube.com/channel/UCTWcVDAN74G50tkF1v9Gl9A)
 
