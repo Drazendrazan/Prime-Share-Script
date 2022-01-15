@@ -9,7 +9,7 @@
     Nơi đây có những script được chia sẻ bởi RPK Team!
     <br />
     <br />
-    <a href="https://discord.com/invite/Ec2N3dWQpM">Discord</a>
+    <a href="https://discord.com/invite/xnqbxkW7wH">Discord</a>
     ·
     <a href="https://www.youtube.com/playlist?list=PLBz0qtSMFhTXJQsp47CFGWvv7h3tgBD-8">View Demo</a>
   </p>
@@ -50,7 +50,7 @@ Phân phối theo giấy phép GNU. Xem `License.txt` để biết thêm thông 
 
 Gmail  : micheohung@icloud.com
 
-Discord: [Prime Main💠](https://discord.com/invite/Ec2N3dWQpM)
+Discord: [Prime Community 💠](https://discord.com/invite/xnqbxkW7wH)
 
 Youtube: [MiCheo Hưng](https://www.youtube.com/channel/UCTWcVDAN74G50tkF1v9Gl9A)
 
